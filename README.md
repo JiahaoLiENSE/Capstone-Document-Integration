@@ -9,5 +9,6 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - [Demo Presentation Video](https://www.markdownguide.org/cheat-sheet/): In this video presentation, it has a product demo part and a presentation part. In the product demo part, we show how the general design and workflow looks like. In the presentation part, our team delivers a comprehensive demonstration of our team’s design problem/idea and design solution (features and functionality)/product deployment.
 
 ## Table of contents
+- [Project Logo](#serdachny-hockey-ios-mobile-app)
 - [Introduction](#introduction)
 - [Table of contents](#table-of-contents)
