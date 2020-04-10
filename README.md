@@ -24,7 +24,8 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - [License](#license)
 
 ## Demo screenshot
-![](img/demo.gif | width=100)
+![](img/demo.gif)
+<img src="https://github.com/JiahaoLiENSE/Capstone-Document-Integration/blob/master/img/demo.gif width="48">
 
 ## Requirements
 
